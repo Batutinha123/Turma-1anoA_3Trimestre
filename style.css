@@ -1,0 +1,14 @@
+body { 
+    background-color: #f4a3009b;
+}
+
+#titulo {
+  font-size: 50px;
+    text-align: center;
+}
+
+.texto {
+    text-align: center;
+ font-size: 25px;
+    color:rgb(197, 60, 156);
+}
